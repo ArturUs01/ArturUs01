@@ -1,7 +1,6 @@
 
 # 🌿 ArturUs 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=55&lines=Hi,+I'm+ArturUs+👋🏻;Nice+to+meet+you!)](#)
-...
 
 [![](https://komarev.com/ghpvc/?username=ArturUs01&style=flat&color=blueviolet)](#)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ArturUs01)  
