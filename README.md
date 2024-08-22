@@ -1,21 +1,11 @@
 
 # 🌿 ArturUs 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=55&lines=Hi,+I'm+ArturUs+👋🏻;Nice+to+meet+you!)](#)
-A beginner programmer looking for his way in the world of code. I strive for knowledge, excellence and creating amazing projects.  💻🌿
+...
 
 [![](https://komarev.com/ghpvc/?username=ArturUs01&style=flat&color=blueviolet)](#)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ArturUs01)  
 [![Discord](https://img.shields.io/badge/arturus01-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/541564047066398720)
-[![Telegram](https://img.shields.io/badge/@ArturUs0-blue.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/arturus01)
-
----
-
-### ✨ More
-
-* From Ukraine 🇺🇦
-* Pronouns: he/him
-* Android Enjoyer
-* Minecraft / Genshin Impact Lover 
 
 ---
 
